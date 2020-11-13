@@ -1,7 +1,7 @@
-###------------------------------###
-## Write a code to ask an input from the user which is a string.
-## And display the string along with its length.
-## Note: You cannot use len () function here
+
+ '''Write a code to ask an input from the user which is a string.
+ And display the string along with its length.
+ Note: You cannot use len () function here.'''
 
 
 my_input = input("Input a string :")

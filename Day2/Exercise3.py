@@ -1,7 +1,7 @@
-###------------------------------###
-## Suppose you have a list [1, 5, 7, 12 ,15]
-## Print each number using loop.
-## Also, print the square of each number using loop
+
+''' Suppose you have a list [1, 5, 7, 12 ,15]
+ Print each number using loop.
+ Also, print the square of each number using loop'''
 
 my_list = [1, 5, 7, 12, 15]
 

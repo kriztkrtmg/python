@@ -1,4 +1,4 @@
-### Exercise 2 : To write a program that will convert Fahrenheit to Celsius in degrees. ###
+'''Exercise 2 : To write a program that will convert Fahrenheit to Celsius in degrees.'''
 
 
 fahrenheit = input("Enter the temperature in degree Fahrenheit :")

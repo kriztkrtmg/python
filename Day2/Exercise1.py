@@ -1,7 +1,7 @@
-###-------------------------###
-## Exercise 1 : Choose a list of your choice and find the sum of all elements of that list.
-## For example, the sum of [6,9,7,5,4] is 31.
-## Note: You cannot use sum () function here
+
+'''Exercise 1 : Choose a list of your choice and find the sum of all elements of that list.
+For example, the sum of [6,9,7,5,4] is 31.
+Note: You cannot use sum () function here.'''
 
 my_list = [6,9,7,5,4]
 my_sum = 0

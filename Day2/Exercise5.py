@@ -1,5 +1,6 @@
-###------------------------------###
-##Write a code to ask an input from the user which is a string and convert it to uppercase and lowercase.
+
+'''Write a code to ask an input from the user which is a string
+and convert it to uppercase and lowercase.'''
 
 my_input = input("Please input the string(Any word / Sentence) :")
 

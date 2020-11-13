@@ -1,5 +1,5 @@
-## Exercise 5. Create a list of any arbitrary elements. ##
-## Your code should show the list methods as pop, insert and remove. ##
+'''Exercise 5. Create a list of any arbitrary elements.
+Your code should show the list methods as pop, insert and remove.'''
 
 numbers = [15,25,84,114,56,73,224,35,312,444,90,87]
 print("Initial number list :", numbers)

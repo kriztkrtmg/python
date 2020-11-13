@@ -1,5 +1,5 @@
-### Exercise 4. Consider a list of any arbitrary elements. ###
-### Your code should print the length of the list and first and fourth element of the list. ###
+'''Exercise 4. Consider a list of any arbitrary elements.
+Your code should print the length of the list and first and fourth element of the list.'''
 
 student = ["ankit", "onash", "christopher", "debit", "nishchal", "sujan", "roobeen", "avinab", "raiz"]
 

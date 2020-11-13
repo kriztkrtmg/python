@@ -1,4 +1,4 @@
-### Exercise 3. Write a program that takes seconds as time units and converts it to minutes and seconds. ###
+'''Exercise 3. Write a program that takes seconds as time units and converts it to minutes and seconds.'''
 
 input_second = input("Enter the time in seconds :")
 second = int(input_second)
